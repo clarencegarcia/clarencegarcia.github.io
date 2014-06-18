@@ -356,8 +356,8 @@ td.ss-rightlabel {
 }
 .ss-choices {
   list-style: none;
-  margin: .5em 0 0 0;
-  padding: 0;
+  margin: .1em 0 0 0;
+  padding: .8em;
 }
 .ss-choice-item {
   margin: 0;
